@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @peoblouk
+- 👀 I’m interested in python and C
+- 🌱 I’m currently learning school
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me on e-mail peta.oblouk@seznam.cz
