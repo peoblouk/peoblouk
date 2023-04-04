@@ -6,7 +6,7 @@
 ## **<div align="center">👋 Hi, I’m @peoblouk 👋</div>**  
   
 
-- 🧑‍🎓 I’m currently learning school  
+- 🧑‍🎓 I’m currently trying to work STM8 with PN532 module using SPI :(
   
 
 - 👀 I’m interested in python and C  
