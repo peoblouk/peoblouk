@@ -1,79 +1,96 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-##
-👋 Hi, I’m @peoblouk 👋
-</div>  
 
-- 👀 I’m interested in C and Python, RPI 
-<br/>  
+# Hey there, I'm Petr Oblouk 👋
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Embedded+%26+Automation+Engineer;C+%7C+C%2B%2B+%7C+Python+%7C+PowerShell+Developer;VHDL+%7C+Assembler+%7C+MATLAB+Enthusiast;IoT+%7C+Networking+%7C+PLC+%7C+WebSocket;Always+learning+something+new...)](https://git.io/typing-svg)
 
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+[![Profile views](https://komarev.com/ghpvc/?username=peoblouk&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/peoblouk)
+
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 🧑‍💻 About Me
 
+```python
+class PetrOblouk:
+    location   = "Brno, Czech Republic 🇨🇿"
+    university = "VUT FEK — BPC-AMT"
+    interests  = ["Embedded Systems", "Networking", "Automation", "IoT"]
+    currently  = "Studying & building cool things with hardware + software"
 
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+    def greet(self):
+        print("Let's build something awesome together! 🚀")
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Assembler](https://img.shields.io/badge/Assembler-808080?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### 🔬 Scientific & Hardware Description
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-FF8C00?style=for-the-badge&logo=xilinx&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### 🌐 Networking & Protocols
+![HTTP](https://img.shields.io/badge/HTTP%2FREST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus%2FOPC--UA-FF0000?style=for-the-badge&logo=siemens&logoColor=white)
+
+### ⚙️ Automation & Embedded
+![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic%2FPLC-FF9900?style=for-the-badge&logo=siemens&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32%2FESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=peoblouk&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peoblouk&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF" height="165"/>
+
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/peoblouk" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/petr.oblouk.7" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/peoblouk" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/peoblouk" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https:https://discord.gg/NvdUhqFezb" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
-</div>  
-  
 
-<br/>  
+![GitHub Streak](https://streak-stats.demolab.com/?user=peoblouk&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=peoblouk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+</div>
 
-<div align="left"><img src="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=bsjbl12525sdacswr19o8lsuk&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)]]" /></div>  
+---
 
-<br/>  
+## 🤝 Connect with Me
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=peoblouk&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+[![GitHub](https://img.shields.io/badge/GitHub-peoblouk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peoblouk)
+[![Instagram](https://img.shields.io/badge/Instagram-@peoblouk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/peoblouk)
+[![Facebook](https://img.shields.io/badge/Facebook-Petr%20Oblouk-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/petr.oblouk.7)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NvdUhqFezb)
 
-<div align="center"></div>
-<br />
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Built with ❤️ and too much caffeine — peoblouk © 2025</sub>
+</div>
