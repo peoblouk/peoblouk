@@ -15,7 +15,7 @@
 ```python
 class PetrOblouk:
     location   = "Brno, Czech Republic 🇨🇿"
-    university = "VUT FEK — BPC-AMT"
+    university = "VUT FEKT — BPC-AMT"
     interests  = ["Embedded Systems", "Networking", "Automation", "IoT"]
     currently  = "Studying & building cool things with hardware + software"
 
